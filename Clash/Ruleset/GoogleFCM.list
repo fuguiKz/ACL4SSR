@@ -1,10 +1,10 @@
 # 内容：GoogleFCM 谷歌推送服务
 # 数量：35条
-DOMAIN-SUFFIX,dns.weixin.qq.com
-DOMAIN-SUFFIX,dns.weixin.qq.com.cn
-DOMAIN-SUFFIX,short.weixin.qq.com
-DOMAIN-KEYWORD,dns.weixin.qq.com
-DOMAIN-KEYWORD,short.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com,Proxy
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn,Proxy
+DOMAIN-SUFFIX,short.weixin.qq.com,Proxy
+DOMAIN-KEYWORD,dns.weixin.qq.com,Proxy
+DOMAIN-KEYWORD,short.weixin.qq.com,Proxy
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
