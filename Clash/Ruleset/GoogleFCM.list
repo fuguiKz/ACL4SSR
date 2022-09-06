@@ -11,7 +11,9 @@ DOMAIN,alt8-mtalk.google.com
 DOMAIN,mtalk.google.com
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
-DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN,szshort.weixin.qq.com
+DOMAIN,extshort.weixin.qq.com
+DOMAIN,szextshort.weixin.qq.com
 IP-CIDR,64.233.177.188/32,no-resolve
 IP-CIDR,64.233.186.188/32,no-resolve
 IP-CIDR,64.233.187.188/32,no-resolve
